@@ -30,3 +30,23 @@ Kirby is the titular character and protagonist of the Kirby series of video game
 
 Famous line:
 *"Deliver me from mine enemies, oh, my, God. Defend me from them that rise up against me. Deliver me from the workers of inqeuity and save me from bloody men. The mighty are gatehred against me. Awake to help me and behold."*
+
+# TANGLED
+
+![](Tangled.jfif)
+
+>Tangled is a 2010 American animated musical adventure fantasy comedy film[3] produced by Walt Disney Animation Studios and released by Walt Disney Pictures. Loosely based on Rapunzel in the collection of folktales published by the Brothers Grimm, the film was directed by Nathan Greno and Byron Howard, produced by Roy Conli, and written by Dan Fogelman.
+
+## Main Characters
+
+### Rapunzel
+![](Rapunzel.jfif)
+> Rapunzel is a spirited and curious princess known for her long, golden blonde hair, approximately 70 feet in length. She is the 10th official Disney Princess and the first to originate from a fully computer-animated film. Raised in a tower by Mother Gothel, Rapunzel is unaware of her royal lineage and her hair's magical healing properties. She is a determined young woman with fair skin, rosy cheeks, and large green eyes. Rapunzel is described as having a slender frame and slightly wide hips, standing at 5'1". 
+
+### Flynn Rider
+![](FlynnRider.jpg)
+> (also known as Eugene Fitzherbert) is a charming and skilled swashbuckler who is initially portrayed as a rogue and thief. However, his character undergoes a significant transformation as he falls in love with Rapunzel, ultimately becoming a more compassionate and trustworthy individual. 
+
+### Maximus
+![](Maximus.webp)
+> He's a loyal palace horse belonging to the Royal Guard, initially tasked with apprehending Flynn Rider. Over time, Rapunzel's influence and Flynn's eventual good-heartedness help Maximus become an ally of both of them. 
